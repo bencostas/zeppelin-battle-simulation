@@ -1,0 +1,131 @@
+﻿  main.cpp
+C:\Users\benco\source\repos\A3\main.cpp(514,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(514,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(514,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(516,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(516,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(516,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(529,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(529,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(529,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(530,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(531,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(531,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(531,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(607,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(608,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(611,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(612,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(657,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(657,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(657,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(685,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benco\source\repos\A3\main.cpp(688,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benco\source\repos\A3\main.cpp(693,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benco\source\repos\A3\main.cpp(693,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benco\source\repos\A3\main.cpp(694,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(694,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(694,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(698,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benco\source\repos\A3\main.cpp(699,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(699,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(704,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benco\source\repos\A3\main.cpp(704,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benco\source\repos\A3\main.cpp(710,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\benco\source\repos\A3\main.cpp(712,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(712,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(712,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(727,12): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\benco\source\repos\A3\main.cpp(727,12): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(727,61): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\benco\source\repos\A3\main.cpp(727,61): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(728,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\benco\source\repos\A3\main.cpp(728,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(728,62): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\benco\source\repos\A3\main.cpp(728,62): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(734,12): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\benco\source\repos\A3\main.cpp(734,12): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(734,62): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\benco\source\repos\A3\main.cpp(734,62): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(735,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\benco\source\repos\A3\main.cpp(735,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(735,63): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\benco\source\repos\A3\main.cpp(735,63): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(741,12): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\benco\source\repos\A3\main.cpp(741,12): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(741,62): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\benco\source\repos\A3\main.cpp(741,62): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(742,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\benco\source\repos\A3\main.cpp(742,9): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(742,63): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\benco\source\repos\A3\main.cpp(742,63): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(749,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(749,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(749,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(756,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(756,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(756,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(762,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(762,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(762,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(768,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(768,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(768,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(779,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(779,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(779,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(789,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(802,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(804,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(804,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(804,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(810,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(812,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(812,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(812,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(818,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(820,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(820,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(820,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(827,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(840,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(842,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(842,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(842,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(848,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(850,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(850,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(850,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(856,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(858,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(858,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(858,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(869,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(869,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(869,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(871,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(871,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(871,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(879,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(879,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(879,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(880,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(880,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(880,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(924,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(924,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(924,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(928,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(928,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(941,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(941,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(941,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(945,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(945,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(958,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(958,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(958,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(962,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\benco\source\repos\A3\main.cpp(962,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  A3.vcxproj -> C:\Users\benco\source\repos\A3\x64\Debug\A3.exe
+          1 file(s) copied.
